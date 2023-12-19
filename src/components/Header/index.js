@@ -1,4 +1,3 @@
-import hero from '../../assets/hero.png';
 import { FormControl, InputLabel, OutlinedInput, InputAdornment, Typography } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
 import { useSelector } from "react-redux";
